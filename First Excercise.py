@@ -67,6 +67,6 @@ print(y)
 banana
 print(z)
 cherry
-x = ("Python is awesome")
+x = ("Python is awesome ewwwwwww")
 print(x)
 Python is awesome
