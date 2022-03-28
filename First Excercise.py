@@ -67,7 +67,7 @@ print(y)
 banana
 print(z)
 cherry
-x = ("Victor taught me")
+x = ("Victor taught me git push")
 print(x)
 
 
